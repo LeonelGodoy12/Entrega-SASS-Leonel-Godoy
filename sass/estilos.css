@@ -1,1 +1,43 @@
-/*# sourceMappingURL=estilos.css.map */
+.header h1 {
+  font-family: "Oleo Script", cursive;
+  text-align: center;
+  font-size: 80px;
+  margin-right: 300px;
+}
+.header nav {
+  display: inline;
+  font-size: 50px;
+  margin: 15px;
+  font-family: "Oleo Script", cursive;
+  border: solid 1px black;
+  background-color: black;
+  color: aliceblue;
+}
+
+.cuadrofotoprincipal {
+  height: 100px;
+  width: 614px;
+  border: 1px solid black;
+  margin-top: 5px;
+  display: block;
+}
+
+.foto {
+  background-image: url(../img/HD-wallpaper-jack-daniels-whiskey-jack-daniels-ice-can.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.caja {
+  height: 100px;
+  width: 614px;
+  border: 1px solid black;
+  margin-top: 5px;
+  display: block;
+}
+
+.caja--grande--border {
+  border: 1px solid black;
+  margin-top: 10px;
+}/*# sourceMappingURL=estilos.css.map */

@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"estilos.css"}
+{"version":3,"sources":["estilos.scss","estilos.css"],"names":[],"mappings":"AAqBI;EACC,mCAAA;EACA,kBAAA;EACA,eAAA;EACA,mBAAA;ACpBL;ADwBI;EACC,eAAA;EACA,eAAA;EACA,YAAA;EACA,mCAAA;EACA,uBAAA;EACA,uBA3BI;EA4BJ,gBAAA;ACtBL;;AD+BA;EACQ,aAAA;EACA,YAAA;EACA,uBAAA;EACD,eAAA;EACA,cAAA;AC5BP;;ADgCA;EACI,wFAAA;EA5CA,4BAAA;EACA,sBAAA;EACA,2BAAA;ACgBJ;;AD8BA;EACI,aAAA;EACA,YAAA;EACA,uBAAA;EACD,eAAA;EACA,cAAA;AC3BH;;AD8BA;EAGG,uBAAA;EACA,gBAAA;AC7BH","file":"estilos.css"}
